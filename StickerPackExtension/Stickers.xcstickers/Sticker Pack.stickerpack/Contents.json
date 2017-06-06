@@ -1,0 +1,47 @@
+{
+  "stickers" : [
+    {
+      "filename" : "FAM.sticker"
+    },
+    {
+      "filename" : "FullAttackModeSimple.sticker"
+    },
+    {
+      "filename" : "RoyaChogaFAM.sticker"
+    },
+    {
+      "filename" : "rclogo.sticker"
+    },
+    {
+      "filename" : "rclogo2.sticker"
+    },
+    {
+      "filename" : "rclogo3.sticker"
+    },
+    {
+      "filename" : "RcStandard.sticker"
+    },
+    {
+      "filename" : "threeInSeven.sticker"
+    },
+    {
+      "filename" : "threeinsevenheaderlogolight.sticker"
+    },
+    {
+      "filename" : "tuna.sticker"
+    },
+    {
+      "filename" : "turbo1big.sticker"
+    },
+    {
+      "filename" : "iHateProgramming.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
